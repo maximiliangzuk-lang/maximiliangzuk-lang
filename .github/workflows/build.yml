@@ -1,0 +1,35 @@
+name: Generate ASCII Portrait
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'portrait.jpg'
+      - 'generate.py'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: |
+          pip install pillow numpy opencv-python-headless rembg onnxruntime
+          
+      - name: Generate SVG
+        run: python generate.py
+        
+      - name: Commit and Push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add portrait.svg
+          git commit -m "docs: generate ASCII portrait" || exit 0
+          git push
+          
