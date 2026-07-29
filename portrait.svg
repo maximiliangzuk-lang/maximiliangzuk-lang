@@ -1,0 +1,811 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 696 1483" width="696" height="1483">
+  <style>
+    text { font-family: monospace; font-size: 12.9px; fill: #ffffff; white-space: pre; }
+  </style>
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  <g transform="translate(0, 12.9)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="0.0s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="0.0s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 25.8)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="0.08s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="0.08s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 38.7)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="0.16s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="0.16s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 51.6)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="0.24s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="0.24s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 64.5)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="0.32s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="0.32s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 77.4)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="0.4s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="0.4s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 90.3)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="0.48s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="0.48s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 103.2)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="0.56s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="0.56s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 116.10000000000001)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="0.64s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="0.64s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 129.0)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="0.72s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="0.72s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 141.9)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="0.8s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="0.8s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 154.8)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="0.88s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="0.88s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 167.70000000000002)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="0.96s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="0.96s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 180.6)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="1.04s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="1.04s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 193.5)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="1.12s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="1.12s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 206.4)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="1.2s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="1.2s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 219.3)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="1.28s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="1.28s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 232.20000000000002)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="1.36s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="1.36s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 245.1)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@@@@#####%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="1.44s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="1.44s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 258.0)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@ `:-:`+===.%%`%%` ... %   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="1.52s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="1.52s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 270.90000000000003)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@%-....::-```:=*---:::```=*=` @%  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="1.6s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="1.6s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 283.8)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@ `-. ``.`  `.`..``.. .-... .`:-==- @@`#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="1.68s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="1.68s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 296.7)">
+    <text>@@@@@@@@@@@@@@@@@@@@@ `:...=   .:`  ...`.`:```::::-+-::::--=` %@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="1.76s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="1.76s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 309.6)">
+    <text>@@@@@@@@@@@@@@@@@@@@ =``.     -.     . =-:.       ..  ``:```:-- @@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="1.84s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="1.84s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 322.5)">
+    <text>@@@@@@@@@@@@@@@@@@@ .:`      `..   ..  .        ```....     ...:`% @@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="1.92s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="1.92s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 335.40000000000003)">
+    <text>@@@@@@@@@@@@@@@@@@=:-`       .  .                 .    ..... .``.`- @@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="2.0s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="2.0s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 348.3)">
+    <text>@@@@@@@@@@@@@@@@@@ :`.     .         .         .:`. .            ... @@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="2.08s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="2.08s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 361.2)">
+    <text>@@@@@@@@@@@@@@@@@ ``.....  .    .  ....`````..           .``:``. . .:s@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="2.16s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="2.16s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 374.1)">
+    <text>@@@@@@@@@@@@@@@@@.. `.. .   `. .`:-----::::::::``.  .. .        ... .:%@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="2.24s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="2.24s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 387.0)">
+    <text>@@@@@@@@@@@@@@@@%=:  ..  .. .`:-============------::``.    .        .` @@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="2.32s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="2.32s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 399.90000000000003)">
+    <text>@@@@@@@@@@@@@@@@%`:  . . ...:-=+++++++++++++++++++==--::`.    ..... ..=%@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="2.4s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="2.4s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 412.8)">
+    <text>@@@@@@@@@@@@@@@@%=. `   ..:-=++******++*+*+**+***+++++++=-:.    `  .` .- @@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="2.48s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="2.48s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 425.7)">
+    <text>@@@@@@@@@@@@@@@@% -      :-=+******+**++***c*******+**cc**+-:.      .  ..@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="2.56s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="2.56s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 438.6)">
+    <text>@@@@@@@@@@@@@@@@ `-.    `-=++****+*+++++++**+*****+=+cccccc*+=:. `.   `.:s@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="2.64s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="2.64s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 451.5)">
+    <text>@@@@@@@@@@@@@@@.:.:..  .-++**+*+++*++++++*+++*******cccc*cccc*+-`..   .``%@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="2.72s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="2.72s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 464.40000000000003)">
+    <text>@@@@@@@@@@@@@@@   -`. .:=+++**++=++====+*+++****++++*c*cccsccc*+=:    .``%@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="2.8000000000000003s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="2.8000000000000003s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 477.3)">
+    <text>@@@@@@@@@@@@@@@ @ -` ..-=*+*++++++++++++++*******+*c**ccc**cccc*+=:   `:.%@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="2.88s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="2.88s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 490.2)">
+    <text>@@@@@@@@@@@@@@@@ .+:`.`-+*****+++*****+*+*****c***ccscc*c**cccc**+=: . .  @@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="2.96s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="2.96s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 503.1)">
+    <text>@@@@@@@@@@@@@@@@  ::```-+*************=******c**c*cccc*ccccccccc**+=-:.. @@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="3.04s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="3.04s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 516.0)">
+    <text>@@@@@@@@@@@@@@@@@ .. ``=+++**=----==+=+=***+*cccc+***+++++++***c*c*-`-`- @@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="3.12s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="3.12s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 528.9)">
+    <text>@@@@@@@@@@@@@@@@@@ `.``=++*`..        .:=***+***=``. ..`.`:-=**c***-`:``@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="3.2s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="3.2s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 541.8000000000001)">
+    <text>@@@@@@@@@@@@@@@@@@ `` -==. .            `:=++===`. .    .   .`:+**+:..: @@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="3.2800000000000002s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="3.2800000000000002s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 554.7)">
+    <text>@@@@@@@@@@@@@@@@@@%``.-+:..       .`....::====--:...`...`. .....+**:``:%@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="3.36s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="3.36s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 567.6)">
+    <text>@@@@@@@@@@@@@@@@@@% `.  =``::::--:::`:  ``:-:=--:-  .:::---=:``:     `..@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="3.44s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="3.44s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 580.5)">
+    <text>@@@@@@@@@@@@@@@@@@%:`  =---::.```.` ...`       = -:`````:=-:---=:+    `%@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="3.52s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="3.52s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 593.4)">
+    <text>@@@@@@@@@@@@@@@@@@@ . ++--:.` .       ...   ... ::...   .  :.:-==*: ...%@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="3.6s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="3.6s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 606.3000000000001)">
+    <text>@@@@@@@@@@@@@@@@@@@ ` ++=:`.. `-   .   `. .=c*` ::  .   . :` `:-+*. .::.@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="3.68s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="3.68s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 619.2)">
+    <text>@@@@@@@@@@@@@@@@@@%`` *+=--:````....````  -+scc .--:``....```::-+*: .`: @@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="3.7600000000000002s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="3.7600000000000002s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 632.1)">
+    <text>@@@@@@@@@@@@@@@@@@@ `. *+===::-:::::`:-` :=+*ss* `-``````:----==+*`- :+%@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="3.84s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="3.84s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 645.0)">
+    <text>@@@@@@@@@@@@@@@@@@@ .`.c*+==--=--::---- :==+cscc+ =+=-----==-+*+** = `:%@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="3.92s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="3.92s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 657.9)">
+    <text>@@@@@@@@@@@@@@@@@@@=.`=.`+++====-===-=  +==*scc**. -==+=-====++c= c=-`.@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="4.0s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="4.0s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 670.8000000000001)">
+    <text>@@@@@@@@@@@@@@@@@@@ -`=++=  s*===c`  ..-=-=*ccc*++.- +=-==-++c* c**-+` @@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="4.08s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="4.08s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 683.7)">
+    <text>@@@@@@@@@@@@@@@@@@@ `:==+=====-:::````.:-++cs#ssc=:::::---++*******=-:%@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="4.16s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="4.16s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 696.6)">
+    <text>@@@@@@@@@@@@@@@@@@@=`-=======----:-=-`+*+++csssscss+-::---+=+*c****+` @@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="4.24s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="4.24s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 709.5)">
+    <text>@@@@@@@@@@@@@@@@@@@@ .---====++*cc*+==**+==+cccscc+*==----==+****+=`=%@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="4.32s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="4.32s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 722.4)">
+    <text>@@@@@@@@@@@@@@@@@@@@ -=====+**cc**+*=.-:   =*cc  .:-==-=+**c++**+=-+.@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="4.4s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="4.4s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 735.3000000000001)">
+    <text>@@@@@@@@@@@@@@@@@@@@%.----=+***c**+==`....`-+cc+-.`:=+=--**cc***+=-= @@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="4.48s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="4.48s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 748.2)">
+    <text>@@@@@@@@@@@@@@@@@@@@@ :---=++*****+=+:``.`:-+**+--:-==++-=****+==-= @@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="4.5600000000000005s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="4.5600000000000005s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 761.1)">
+    <text>@@@@@@@@@@@@@@@@@@@@@% ---=++++++=+++==::--++=++==+++-*=+-=+**++== =@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="4.64s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="4.64s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 774.0)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@ :--==++=+==++++++=::-``.:**cc+c*==--+++++==.@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="4.72s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="4.72s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 786.9)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@%.---+==+-====+=+=::.`:=--`:=+c=-`-==++=+==.%@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="4.8s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="4.8s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 799.8000000000001)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@ :--==+==-:         .....      ..:-=+++==-.@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="4.88s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="4.88s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 812.7)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@% ---==---=:`. .....`...`.`.`-==:--++++== @@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="4.96s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="4.96s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 825.6)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@@ `--=--:--:-:--:...``.`.:+***++=-======`=@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="5.04s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="5.04s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 838.5)">
+    <text>@@@@@@@@@@@@@@@@@@@@@@@ ++-------:---===--==++===*++++=-=-====-.%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="5.12s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="5.12s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 851.4)">
+    <text>@@@@@@@@@@@@@@@@@@@@@% *==-::-:---::--=-====--==++++==--=-===-.c  @@@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="5.2s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="5.2s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 864.3000000000001)">
+    <text>@@@@@@@@@@@@@@@@@@@@@ +=++-``:::::::-------:::--====---=--=--.=* . %@@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="5.28s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="5.28s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 877.2)">
+    <text>@@@@@@@@@@@@@@@@@@@@ +++ . . .``::::::-:::::----:=+====-----..-c` = %@@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="5.36s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="5.36s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 890.1)">
+    <text>@@@@@@@@@@@@@@@@@@@=+**`:-    .``:::------=====-==++=+=--::. =*c-  + @@@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="5.44s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="5.44s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 903.0)">
+    <text>@@@@@@@@@@@@@@@@@@@ ccc -c ..   ``::-----===--=+-=++==-::`  =*c*=: +c @@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="5.5200000000000005s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="5.5200000000000005s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 915.9)">
+    <text>@@@@@@@@@@@@@@@@@@%+*cc ` :`     .`:::----==========---:.  ++cccc`  c`=@@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="5.6000000000000005s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="5.6000000000000005s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 928.8000000000001)">
+    <text>@@@@@@@@@@@@@@@@@@ *+c* -`==`      .`::---------=---::.   ==*scc*-= -c @@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="5.68s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="5.68s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 941.7)">
+    <text>@@@@@@@@@@@@@@@@@ +c*cc.-`*++`.   ....`::::::::::::`.    ++*cc*cc=+ .c %@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="5.76s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="5.76s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 954.6)">
+    <text>@@@@@@@@@@@@@@@@%.+cc*:`+`-+*+-   . .....  ....   ...   ==+ss=cs**+: c=.@@@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="5.84s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="5.84s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 967.5)">
+    <text>@@@@@@@@@@@@@@@@%:+c**:::.+*cc*-  ..................   ==**s+css`**` c-* %@@@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="5.92s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="5.92s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 980.4)">
+    <text>@@@@@@@@@@@@@@@@ :*cc+*:-`++ccs*-`  .....```````..   -+-+csssss:-**: c=++  @@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="6.0s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="6.0s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 993.3000000000001)">
+    <text>@@@@@@@@@@@@@@@@ .*=++:-+ ++*sc*c+:: ....``````...  ++=+css+ss-:+**-.*=+*=.%@@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="6.08s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="6.08s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1006.2)">
+    <text>@@@@@@@@@@@@@@@. :++== s *==css*c**--`  ..````. . --===cc#+#s===**=.-s=+==* @@@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="6.16s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="6.16s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1019.1)">
+    <text>@@@@@@@@@@@@s  . .*+*+  *+==*ss*sccc--:   ....   +=-==*cscc#*=+=cs:`::==-cs. @@@@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="6.24s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="6.24s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1032.0)">
+    <text>@@@@@@@ %   .::...**c* c =c*:css*ssc++--:      +*=-+++c#s*s=***-cc-+ -*sssc:.  @@@@@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="6.32s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="6.32s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1044.9)">
+    <text>@@@  % .`.`-`:``  =*** : #***=ccsc*c#*+=---  `++-===+*s#cs-**c*+c:.* +cccsc--:.   @@@@@@@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="6.4s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="6.4s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1057.8)">
+    <text>%@  .-::...:--` ` -*=*- * sss+==css*sss+---:**+-=*c**s#*c=c*c*c*c`` *c+***---= =.     %%@@</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="6.48s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="6.48s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1070.7)">
+    <text>   ::-:. `:``.-:   c*==:.  scc*=+=sssscc+=c*+=**scs*s#s=+sccc`-+c:* ++++`*  .--+==        </text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="6.5600000000000005s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="6.5600000000000005s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1083.6000000000001)">
+    <text>-`.`:::...:-..` `  -**== * =scs*+===*c+*c+*=++ssss*s##-c*ccs=.**:- +==+:.*.  .=-=         </text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="6.640000000000001s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="6.640000000000001s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1096.5)">
+    <text>:...:`...`-:-:..`   **-=.= `=cs#***--sscc*+*sssss*s##*ccc*s#c=cc:cc:=-:ccc    ==.         </text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="6.72s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="6.72s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1109.4)">
+    <text>`.`.:` .`.:-.::`..  =**--  -:+c*c*++#cc++=+scssscsss-=*+*cssscc`# --+=-ssc   -``     .....</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="6.8s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="6.8s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1122.3)">
+    <text>`.``:``:::-:-````.   *c*--   :-c****scc++=csssccss#-+*ccc##s*c.` .:`:css*`       .  ......</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="6.88s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="6.88s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1135.2)">
+    <text>`....``:::--``:`     -cc+-: ..  =+c*sc*=csssscs#s#-++**c#s#+c*= .:+ccs#s*     ............</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="6.96s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="6.96s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1148.1000000000001)">
+    <text>....``.`.`==-:```..   =c*+-`:  ``+c*cc*s+*cc*sss#`*sc*cs##-cc. =-=ccsssc:    ............`</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="7.04s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="7.04s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1161.0)">
+    <text>..`::``.``-``:--`..   `=*+*+:``.sccc+sccc*c*c*cs`+csc*c##-:c` +-=cssssc-     .............</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="7.12s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="7.12s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1173.9)">
+    <text>.````` ``-:-::-=....    =++*+-+cc*c*c**cc***+*s`:cc*ccss=`-`-=-=cs##sc-     .............`</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="7.2s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="7.2s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1186.8)">
+    <text>..`.`: `:==``-:`....      -==-cc*cccc*++*cs*c#s`=cc**sss-.+--:=css##*:.     ...........`.`</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="7.28s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="7.28s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1199.7)">
+    <text>``..:..-:+:--++:`.```     ` :s*c**c=c*+*=+c+sc:+*c+*c+*=.+-::-c##sc=`.    ......`.....```:</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="7.36s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="7.36s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1212.6000000000001)">
+    <text>````:::-=:=:`:`-````:..     -cs+c+***+*c++*+c:=***c==`...=`:-+s##*``.. ......```......`:`-</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="7.44s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="7.44s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1225.5)">
+    <text>.`.::.-==:-`---=`.-:.`      *****+*cc+c====s*++*sc:` `+ -`:-+css=``...``.``..```.`....```-</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="7.5200000000000005s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="7.5200000000000005s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1238.4)">
+    <text>`:.`-.--:-``--==```:``.   c+**=c+c+c+*+=+*cs+ccc:..`* =:-:-+*s**`....`````````.....`....`-</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="7.6000000000000005s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="7.6000000000000005s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1251.3)">
+    <text>`:-````:=:-`:==-:``:.```cc*+c+c*+*ss++-==cs*cc*..*. ===---=++**.....``````:```...........:</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="7.68s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="7.68s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1264.2)">
+    <text>.--.-``-::``=-=`:``:````cc=*c+cc**s+==++*s+c*.:=  ==-=c*+*=+=.    ..``.```.``..`....  ...:</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="7.76s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="7.76s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1277.1000000000001)">
+    <text>.:`:-::-:`:`-+-:``:`````*++cccc+*c=+****c*c`.   --+-c+scc*+.      ..`````:```............:</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="7.84s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="7.84s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1290.0)">
+    <text>`:``::-`:``:-=-`````:```==+c*c**cs=*++*cc+   -:-c-+=s*ccc**      ......```````..`.`......`</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="7.92s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="7.92s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1302.9)">
+    <text>.:`--`:````::--.:``::````==******s++++cc= ==-+*=cc+*cs*scccs       ..`.``````.```..`..`..`</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="8.0s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="8.0s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1315.8)">
+    <text>``-:-:.`::`::-::`:``:``````+*=c**s*+*+cs``-++-*:s#**=csscssc`       ..`````.```.`..`.```.`</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="8.08s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="8.08s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1328.7)">
+    <text>:::=.`:.``::---:`:`:```:::.*+++++cc*=+**``..-:c+*ssc*+cs#cc**      ...`````````...`..`.`.`</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="8.16s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="8.16s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1341.6000000000001)">
+    <text>--:--:-`::::::-:-`:::`:`:.. -=++++++-:-+--`-+.*s-ss#*c=css#+*`     ..`.````.``.......```.:</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="8.24s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="8.24s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1354.5)">
+    <text>---`:``.::`:-:-::::`::`:....  . =---``  +-`-=-c*c=c#+*cccs##c-  ......`.```.``.``.`..:``.`</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="8.32s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="8.32s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1367.4)">
+    <text>-:=:`:::-`::-:`:::-:``:`....       .:. =*:+*--#s*-+sc+**c*ss+*`  .....```````..``...`-:``:</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="8.4s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="8.4s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1380.3)">
+    <text>=:::`:.:::::---:-:-:::`-.`.. .     .:. *+-.:*:sc**-cs=+c*sssc*:   .`.`````..``...`...::`.:</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="8.48s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="8.48s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1393.2)">
+    <text>---:`::````--:-``--:::-=--``...    ::. c*- +::#c**:*c==++c#c#c*.  .``````````......```:..:</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="8.56s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="8.56s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1406.1000000000001)">
+    <text>:-::-`:::`-:::::----:--=-=-..`  .  -= `s=-.=*=sc*c+-c*-=*+ccss*:  .```````````.......`...:</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="8.64s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="8.64s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1419.0)">
+    <text>---:.:-::::--::=:-----:--=-::..   :=. *=*.=**`sccc*-cs*scc*+c#c-  .`:::``:```:` ..```::.`:</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="8.72s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="8.72s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1431.9)">
+    <text>:::---:::--=-::::--=::==-+=+-...  == -c+*- cc -s*s+-cc+s*ccsccs=  .`````:``:`:.......```:=</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="8.8s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="8.8s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1444.8)">
+    <text>-:-::::-::----:::=:==--==+=+*`.   =  *cc`: s+ .#sc+-+**==cc*cscc: ...`````:``:`...`.``:`:-</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="8.88s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="8.88s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1457.7)">
+    <text>=-::`==:-=-=:---:-:--=--==+=+--:  - `*cc:`.c+ :css*-=*c+=++cccsc= .......``````.........:=</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="8.96s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="8.96s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1470.6000000000001)">
+    <text>==`-+:=-::=---=:-:=--=+==+++=-::`.- :*c=+``+=`::c**+=**++*+cc**cs   .  .````::.``````:::--</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="9.040000000000001s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="9.040000000000001s" fill="freeze" />
+    </rect>
+  </g>
+  <g transform="translate(0, 1483.5)">
+    <text>=====-:=----==:=:=====--+==+==-::`= c*s=+ :==+ `s*+c++=+=*s*+sssc:     ...`:`````::---====</text>
+    <rect x="0" y="-10" width="696" height="14.9" fill="#0d1117">
+      <animate attributeName="x" from="0" to="696" dur="0.4s" begin="9.120000000000001s" fill="freeze" />
+      <animate attributeName="width" from="696" to="0" dur="0.4s" begin="9.120000000000001s" fill="freeze" />
+    </rect>
+  </g>
+</svg>
